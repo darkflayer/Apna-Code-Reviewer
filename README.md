@@ -1,12 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1AJSDhqyyMOOGMYX7KKPKlKLUFkSm2RhE
+Screenshots
+<img width="1366" height="768" alt="Screenshot (1588)" src="https://github.com/user-attachments/assets/cac55051-2c4e-4eb2-952a-d8aa05257542" />
+<img width="1366" height="768" alt="Screenshot (1589)" src="https://github.com/user-attachments/assets/13137210-7d6b-4448-a72d-b8f3b588a1fe" />
+<img width="1366" height="768" alt="Screenshot (1590)" src="https://github.com/user-attachments/assets/eef1810d-1b11-463b-a1cd-c28d607da645" />
+<img width="1366" height="768" alt="Screenshot (1591)" src="https://github.com/user-attachments/assets/27d52b63-aff2-4e87-a96f-28e4cfaab81d" />
+<img width="1366" height="768" alt="Screenshot (1592)" src="https://github.com/user-attachments/assets/7b01103e-3453-4e65-b43b-78df3db5ded3" />
+<img width="1366" height="768" alt="Screenshot (1593)" src="https://github.com/user-attachments/assets/b3524344-8ff9-4d6e-b87b-987f7480fe09" />
 
 ## Run Locally
 
