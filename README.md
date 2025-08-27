@@ -144,7 +144,7 @@ An AI-powered code reviewer and mini-IDE that uses the Gemini API to analyze, im
 ---
 
 ## License
-MIT
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
