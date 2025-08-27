@@ -1,0 +1,16 @@
+{
+  "short_name": "Apna Code Reviewer",
+  "name": "Apna Code Reviewer",
+  "description": "An AI-powered code reviewer and mini-IDE to analyze, run, and improve your code.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#F8FAFC"
+}

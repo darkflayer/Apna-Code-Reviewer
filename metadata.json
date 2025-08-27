@@ -1,0 +1,5 @@
+{
+  "name": "Apna Code Reviewer",
+  "description": "An AI-powered code reviewer and mini-IDE that uses the Gemini API to analyze, improve, and run code snippets. Now with PWA support for a native app experience.",
+  "requestFramePermissions": []
+}
